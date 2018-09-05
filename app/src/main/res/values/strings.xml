@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Christian Music</string>
+    <string name="category_geet">Geet</string>
+    <string name="category_zaboor">Zaboor</string>
+    <string name="category_gazals">Gazals</string>
+    <string name="category_now_playing">Now Playing </string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the zaboor category -->
+    <color name="category_zaboor">#1DE9B6</color>
+
+    <!-- Background color for the geet category -->
+    <color name="category_geet">#0277BD</color>
+
+    <!-- Background color for the gazals category -->
+    <color name="category_gazals">#3E2723</color>
+
+
+</resources>
